@@ -1,0 +1,11 @@
+* Variables: Son valores que son almacenados/guardados para luego ser usados y su valor puede variar o cambiarse. Para asignar una variable en Javascript debes colocar en el terminal/consola var, luego seguido del nombre que le queremos asignar a esa variable, colocamos el simbolo igual (=) y le asignamos el valor. Ejemplo: var Hamburgesa = "Pan" + "Carne"  
+
+* Strings: Se consideran variables que almacenan cadenas de textos y estan representadas por comillas dobles (""). Ejemplo: "Pablo"
+
+* Funciones (argumentos, `return`): Las funciones son herramientas que te permiten elaborar un comando o un conjunto de instrucciones que realiza una tarea o calcula un valor.
+    Estas funciones les puedes asignar argumentos que te permite establecer variables para ser usadas en la funcion. 
+    Return ya es un comando que existe dentro de javascript y lo que hace es regresar un valor u operacion de la funcion. Return solo se debe usar 1 vez, ya que una vez el programa pase por return todo lo demas codigos que esta debajo escrito dentro de la funcion no seran incluidos.
+
+* Declaraciones `if`: If es una declaración que en español significa "si", esto quiere decir que utilizas esta funcion para saber si se cumple cierta condición.
+
+* Valores booleanos (`true`, `false`): Existen 2 valores Booleanos True (cierto) y FALSE (falso). Estos valores nos ayuda a identificar si algo es cierto o false, y tambien puede usarse para realizar operaciones donde se requiera que se cumpla algo TRUE o que no se cumpla algo FALSE.
