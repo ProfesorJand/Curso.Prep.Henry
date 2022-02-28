@@ -116,10 +116,14 @@ function esEntero(numero) {
   // De lo contrario, devuelve "false"
   // Pista: Puedes resolver esto usando `Math.floor`
   // Tu código:
-  if (numero >= 1 || numero <= -1 || numero === 0){
-    return true;
-  }
+  if (isNaN(numero)){
+    return false;
+  }else{
+    if (numero - Math.floor(numero) === 0){
+      return true;
+    }
   return false;
+  }
 }
 
 function fizzBuzz(numero) {
