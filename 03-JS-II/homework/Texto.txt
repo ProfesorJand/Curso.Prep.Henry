@@ -1,0 +1,1 @@
+for = es una función (tipo bucle) que se ejecuta "n" cantidades de veces, mientras la condición se evalúa como verdadera, tiene un punto de inicio, la condición y actualizacion. Generalmente se usa para actualizar o incrementar una variable contador
