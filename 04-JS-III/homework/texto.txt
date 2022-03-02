@@ -1,0 +1,1 @@
+Arrays = es una lista de datos de cualquier tipo: numero, texto, boleanos, etc... A los datos almacenados se les llaman elementos. Cada elemento tiene un indice, y el primer elemento siempre es indice [0].
