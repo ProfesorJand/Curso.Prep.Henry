@@ -1,0 +1,9 @@
+*Objetos: es parecido a una matriz pero en vez de tener elementos valorados en indice, este contiene clave:valor. Donde clave es el identificador y valor es el valor que queremos guardar en esa clave.
+
+* Propiedades: cada clave:valor es una propiedad de un objeto.
+
+* Métodos: las funciones guardadas en un objeto se denominan métodos. En los objetos los valores se pueden establecer funciones.
+
+* Bucle `for…in`: Es un bucle en donde podemos ir iterando las propiedades de un objeto, pasando por la primera propiedad hasta la ultima propiedad.
+
+* Notación de puntos vs notación de corchetes: Si queremos utilizar una variable externa debemos usar corchetes; escribes mas cuando usas los corchetes.
