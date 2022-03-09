@@ -1,0 +1,3 @@
+prototype: es un método (función) de un objeto. Cada Clase o Constructor tiene un prototype, que luego podemos establecer en métodos.
+
+Contructor: Contructor o Clase son funciones útiles para crear muchos objetos. Todas las funciones constructoras de clases deben empezar con la primera letra Mayusculas para decirles a otros programadores que es una Clase.
